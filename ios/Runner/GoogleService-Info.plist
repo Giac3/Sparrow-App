@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>959964946070-adml1rd5gblju2hald889h4vq2lufusr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.959964946070-adml1rd5gblju2hald889h4vq2lufusr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDZzDMdYOrLdD-LoG7Ww9oYVfsDhLTS7ps</string>
+	<key>GCM_SENDER_ID</key>
+	<string>959964946070</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sparrow-funds.sparrowapp</string>
+	<key>PROJECT_ID</key>
+	<string>sparrow-e163e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sparrow-e163e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:959964946070:ios:f98c74b7f827ccc6f9ecb7</string>
+</dict>
+</plist>
